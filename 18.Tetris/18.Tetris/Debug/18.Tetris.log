@@ -1,0 +1,4 @@
+﻿  18.TetrisView.cpp
+c:\users\lwl\documents\visual studio 2015\projects\18.tetris\18.tetris\18.tetrisview.cpp(138): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  18.Tetris.vcxproj -> c:\users\lwl\documents\visual studio 2015\Projects\18.Tetris\Debug\18.Tetris.exe
+  18.Tetris.vcxproj -> c:\users\lwl\documents\visual studio 2015\Projects\18.Tetris\Debug\18.Tetris.pdb (Partial PDB)
